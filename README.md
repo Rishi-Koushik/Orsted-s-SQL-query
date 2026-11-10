@@ -46,6 +46,14 @@ Download `orsteds-sql-journey.html` and open it in any modern browser.
 - [sql.js](https://github.com/sql-js/sql.js), which is SQLite compiled to JavaScript and bundled inside the file
 - `localStorage` for save slots
 
+## 👥 Contributors
+
+- **Rishi Koushik** ([@Rishi-Koushik](https://github.com/Rishi-Koushik)) - Creator & Lead Developer
+- **Antigravity** ([Google DeepMind](https://deepmind.google/)) - AI Contributor
+- **Claude** ([Anthropic](https://anthropic.com/)) - AI Contributor
+
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full contributor details.
+
 ## Disclaimer
 
 This is a non-commercial fan project made for learning. *Mushoku Tensei* and its characters belong to Rifujin na Magonote and their respective rights holders. All art in the game is drawn in code and is original.
